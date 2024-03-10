@@ -3,33 +3,9 @@ body {
     padding: 20px;
     background-color: #f0f0f0;
 }
-
-.browser-support {
-    list-style: none;
-    padding: 0;
-    margin-bottom: 20px;
-}
-
-.browser-support li {
-    margin-bottom: 5px;
-}
-
-.green {
-    color: green;
-}
-
-.orange {
-    color: orange;
-}
-
-.red {
-    color: red;
-}
-
 .input-container {
     margin-bottom: 20px;
 }
-
 input {
     margin: 10px 0;
     padding: 10px;
